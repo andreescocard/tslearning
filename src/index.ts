@@ -1,6 +1,8 @@
 //string, boolean, number, ...
 let x: number= 10;
 
-x = 6
+x = 12
 
 console.log(x);
+
+//inferencia x annotation
